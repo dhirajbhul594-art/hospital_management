@@ -1,5 +1,5 @@
 
-# 🏥 Hospital Management System (MySQL Project)
+# 🏥 Hospital Management System 
 
 A structured and interactive **Hospital Management Database** built using **MySQL**, designed to manage data of patients, doctors, and treatments efficiently.
 This project demonstrates **core SQL concepts** such as table creation, joins, aggregate functions, subqueries, and data manipulation all crafted for academic and practical learning.
