@@ -2,7 +2,7 @@
 # 🏥 Hospital Management System (MySQL Project)
 
 A structured and interactive **Hospital Management Database** built using **MySQL**, designed to manage data of patients, doctors, and treatments efficiently.
-This project demonstrates **core SQL concepts** such as table creation, joins, aggregate functions, subqueries, and data manipulation — all crafted for academic and practical learning.
+This project demonstrates **core SQL concepts** such as table creation, joins, aggregate functions, subqueries, and data manipulation all crafted for academic and practical learning.
 
 ---
 
@@ -41,8 +41,6 @@ The goal of this project is to simulate a **real-world hospital database** and s
 * 🔗 Use of **Primary** and **Foreign Keys** for relational integrity
 * ⚙️ Demonstrates various **SQL JOINs (INNER, LEFT)**
 * 📊 Includes **aggregate functions** and **subqueries**
-* 💡 Suitable for **college-level SQL projects** and database learning
-
 
 
 ## 💾 Technologies Used
@@ -85,7 +83,6 @@ The goal of this project is to simulate a **real-world hospital database** and s
 ## 🎯 Project Highlights
 
 ✅ Fully functional SQL dataset
-✅ Designed for **college projects and learning**
 ✅ Clean and easy-to-understand queries
 ✅ Demonstrates **real-world database logic**
 
